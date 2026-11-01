@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="ecureCompany.Domain/ecureCompany.Domain.csproj" />
+  <Project Path="SecureCompany.Application/SecureCompany.Application.csproj" />
+  <Project Path="SecureCompany.Infrastructure/SecureCompany.Infrastructure.csproj" />
   <Project Path="SecureCompany/SecureCompany.csproj" />
 </Solution>
